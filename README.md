@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Raj Mandal
+- 👀 I’m interested in Coading 
+- 🌱 I’m currently studying Computer Science at Rcc Institute of information Technology
