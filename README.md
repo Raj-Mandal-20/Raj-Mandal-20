@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/raj-mandal-72a834247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-mandal-72a834247/" height="30" width="40" /></a> -->
+<a href="https://www.codingninjas.com/studio/profile/17018756-da95-4638-81cc-a3b04f03af5e" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="https://www.codingninjas.com/studio/profile/17018756-da95-4638-81cc-a3b04f03af5e" height="40" width="40" /></a>
 <a href="https://leetcode.com/raj-mandal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/raj-mandal/" height="30" width="40" /></a>
 </p>
 
